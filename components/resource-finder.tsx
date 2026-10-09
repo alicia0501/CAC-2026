@@ -707,8 +707,7 @@ export default function ResourceFinder({ initialCities }: { initialCities: strin
 
         <section className="welcome" id="top">
           <div className="welcome-copy">
-            <p className="eyebrow"><span className="eyebrow-dot" />{t.eyebrow}</p>
-            <h1>{t.heading}</h1>
+                    <h1>{t.heading}</h1>
             <p className="welcome-intro">{t.intro}</p>
           </div>
           <div className="welcome-note"><span className="note-icon"><Heart size={16} fill="currentColor" aria-hidden="true" /></span><span>{t.madeFor} <strong>{t.madeBy}</strong></span></div>
