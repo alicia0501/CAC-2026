@@ -201,7 +201,7 @@ const translations = {
   en: {
     navExplore: 'Explore', navSaved: 'Saved', navShare: 'Share a resource', language: 'Español', languageAction: 'Switch language to', loadingMap: 'Loading neighborhood map…', removedNotice: 'Removed from saved resources.', madeFor: 'Made for families,', madeBy: 'by students.',
     radiusOne: 'Within 1 mile', radiusThree: 'Within 3 miles', radiusFive: 'Within 5 miles', radiusTen: 'Within 10 miles',
-    eyebrow: 'Local family resources', heading: 'Connecting community to opportunity.', intro: 'Discover free youth activities, food pantries, and community care near you — no sign up required.',
+    eyebrow: 'Local family resources', heading: 'Connecting community to opportunity.', intro: 'Discover free and affordable youth activities, food pantries, and community care near you — no sign up required.',
     search: 'Search activities, food, and more', state: 'State', city: 'City', allCities: 'All cities', zipCode: 'ZIP code', zipHint: 'Set your starting point to estimate miles.', invalidZip: 'Enter a valid US ZIP code to calculate distances.', loadingCities: 'Loading cities…', citiesUnavailable: 'Could not load cities for this state. Please try again.', age: 'Age range', distance: 'Distance', category: 'Browse by category', filters: 'Filters',
     all: 'All resources', events: 'Events', food: 'Food', sports: 'Sports', arts: 'Arts', familySupport: 'Family Support', extracurricular: 'Extracurriculars',
     results: 'near you', list: 'List', map: 'Map', nearest: 'Nearest first', freeOnly: 'Only show 100% free', snapOnly: 'SNAP / EBT accepted',
